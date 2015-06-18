@@ -1,0 +1,29 @@
+{
+  "name": "angular-requirejs-tiny-seed",
+  "version": "0.0.1",
+  "main": "index.html",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/craigsnyders/angular-requirejs-tiny-seed.git"
+  },
+  "keywords": [
+    "AngularJS",
+    "RequireJS",
+    "seed project"
+  ],
+  "author": "Craig Snyders <craig@snyders.co.uk>",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "homepage": "https://github.com/craigsnyders/angular-requirejs-tiny-seed",
+  "dependencies": {
+    "angular": "~1.2.28",
+    "requirejs": "~2.1.18",
+    "normalize.css": "~3.0.3"
+  }
+}
